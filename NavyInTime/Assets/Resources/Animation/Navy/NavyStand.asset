@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc9aa1431a309a4c833b69a618b0d78, type: 3}
+  m_Name: NavyStand
+  m_EditorClassIdentifier: 
+  spriteSequence:
+  - {fileID: 7895870751834300241, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -6005573532538409560, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -510687802563372534, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -2327859325415387304, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 6199839636277698967, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 4635540567111726833, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -3724221890605490964, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -681715308670277326, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -694428928458846812, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 6081032498508380614, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 1904889255458807186, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 1310554832980832940, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 7459315167835722954, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -3080804766954370231, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: -3323000638916734476, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}
+  - {fileID: 7974521420621323804, guid: 8b1c7dd10bd022440800f7fd5c6da8ed, type: 3}

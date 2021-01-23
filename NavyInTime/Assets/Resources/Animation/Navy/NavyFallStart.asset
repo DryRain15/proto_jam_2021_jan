@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc9aa1431a309a4c833b69a618b0d78, type: 3}
+  m_Name: NavyFallStart
+  m_EditorClassIdentifier: 
+  spriteSequence:
+  - {fileID: -8131370188253141375, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}
+  - {fileID: 8366751535426227884, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}
+  - {fileID: -4757020866718452461, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}
+  - {fileID: -7090681497981508724, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}
+  - {fileID: -8719863715105986480, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}
+  - {fileID: 6758768884823286576, guid: 2f78c275dc77f0d4a8442621061c6a55, type: 3}

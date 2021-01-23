@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc9aa1431a309a4c833b69a618b0d78, type: 3}
+  m_Name: NavyWalk
+  m_EditorClassIdentifier: 
+  spriteSequence:
+  - {fileID: -8756645429791378912, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: -6462000465160979067, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: -2743870153827724863, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: 4378363673377553026, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: 1849313521414644444, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: 5674581038036430537, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: -9020310355342187773, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}
+  - {fileID: 2251053658151354326, guid: e2173c516bc84334e94175a98ad4f9dd, type: 3}

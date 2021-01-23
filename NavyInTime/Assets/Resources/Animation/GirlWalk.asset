@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc9aa1431a309a4c833b69a618b0d78, type: 3}
+  m_Name: GirlWalk
+  m_EditorClassIdentifier: 
+  spriteSequence:
+  - {fileID: -9011709251480652450, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: 5275764156745769486, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: -6166762992918892036, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: 6706365182448181582, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: 4703083388698923969, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: -7744246945792437990, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: -6865453934455378969, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}
+  - {fileID: -1252550407058708757, guid: 622b1445c1da25d469e6bf09a3a4b9e6, type: 3}

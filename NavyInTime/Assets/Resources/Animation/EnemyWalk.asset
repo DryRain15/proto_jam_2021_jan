@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc9aa1431a309a4c833b69a618b0d78, type: 3}
+  m_Name: EnemyWalk
+  m_EditorClassIdentifier: 
+  spriteSequence:
+  - {fileID: 2895833973573699650, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: -4024890148864007743, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: -1251460774991039617, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: -8878937761161621256, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: -2524669748321928629, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: 2418757027488684396, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: 4981272335417032175, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
+  - {fileID: 1486971740700986620, guid: d46814d8ce4c59942a3443e98210ab72, type: 3}
